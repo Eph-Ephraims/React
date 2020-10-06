@@ -2,7 +2,7 @@
 #pre-mest react - 
 # pre-mest
 
-Ephraim M. Adehenu
+Eph M. Adehenu
 -IT enthusiast, professional, student, code learner and hoping not to be overwhelmed anytime soon,
 ajumah.com/calabashlabs web developer/designer intern,
 Former IT support officer, web design officer, emergency call center agent, 
